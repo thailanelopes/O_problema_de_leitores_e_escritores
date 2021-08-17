@@ -8,3 +8,4 @@ Nesse sistema, é aceitável a existência de diversos leitores na base de dados
 Porém, se um processo necessita escrever na base de dados, nenhum leitor esta realizando acesso a
 ela.
 
+<img src="/escritores e leitores.png" alt="My cool logo"/>
