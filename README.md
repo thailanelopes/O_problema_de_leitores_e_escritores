@@ -1,6 +1,6 @@
 # O problema de leitores e escritores
 
-O problema dos leitores e escritores modela o acesso a uma base de dados, em que basicamente
+  O problema dos leitores e escritores modela o acesso a uma base de dados, em que basicamente
 alguns processos ou threads estão lendo os dados da região crítica, somente querendo obter a
 informação da mesma, que é o caso dos leitores. Quando outros processos ou threads tentam alterar
 a informação da região crítica, é o caso dos escritores.
